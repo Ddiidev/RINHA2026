@@ -1,0 +1,9 @@
+services:
+  api1:
+    build: .
+    image: rinha2026-v:local
+
+  api2:
+    build: .
+    image: rinha2026-v:local
+

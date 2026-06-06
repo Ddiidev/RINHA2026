@@ -1,0 +1,10 @@
+.git
+.velvet
+*.exe
+*.tmp.c
+bin
+dist
+target
+data/*.bin
+resources/references.json.gz
+

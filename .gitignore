@@ -1,0 +1,31 @@
+# Binaries for programs and plugins
+main
+RINHA2026
+*.exe
+*.exe~
+*.so
+*.dylib
+*.dll
+
+# Ignore binary output folders
+bin/
+
+# Ignore common editor/system specific metadata
+.DS_Store
+.idea/
+.vscode/
+*.iml
+
+# ENV
+.env
+
+# Web assets and local databases
+*.db
+*.js
+data/*.bin
+resources/references.json.gz
+server-test.log
+server-test.err
+
+# Ignore installed modules through `v install --local`:
+modules/
