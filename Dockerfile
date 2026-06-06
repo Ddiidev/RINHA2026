@@ -1,4 +1,4 @@
-FROM vlang/vlang:alpine AS builder
+FROM thevlang/vlang:alpine AS builder
 
 WORKDIR /src
 RUN apk add --no-cache curl
