@@ -13,6 +13,3 @@ Como não havia tempo para implementar do zero, pedi para a IA construir toda a 
 Se a organização quiser **desconsiderar** este repositório do ranking oficial, não tem o menor problema. A submissão vale mais pelo estudo e curiosidade técnica!
 
 ---
-
-## Licença
-MIT

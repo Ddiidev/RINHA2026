@@ -1,7 +1,17 @@
 {
-  "participants": ["Ddiidev"],
-  "social": ["https://andreluiz.is-a.dev/", "https://github.com/Ddiidev"],
+  "participants": [
+    "Ddiidev"
+  ],
+  "social": [
+    "https://andreluiz.is-a.dev/",
+    "https://github.com/Ddiidev"
+  ],
   "source-code-repo": "https://github.com/Ddiidev/RINHA2026",
-  "stack": ["v", "nginx", "ivf-vector-index", "k-means"],
-  "open_to_work": false
+  "stack": [
+    "v",
+    "nginx",
+    "ivf-vector-index",
+    "k-means"
+  ],
+  "open_to_work": true
 }
