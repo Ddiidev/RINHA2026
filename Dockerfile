@@ -9,7 +9,7 @@ RUN mkdir -p /src/data \
 	&& curl -L https://raw.githubusercontent.com/zanfranceschi/rinha-de-backend-2026/main/resources/references.json.gz -o /tmp/references.json.gz \
 	&& v -o /tmp/rinha2026 . \
 	&& /tmp/rinha2026 preprocess /tmp/references.json.gz /src/data/references.bin \
-	&& v -no-bounds-checking -o /out/rinha2026 .
+	&& mkdir -p /out && v -no-bounds-checking -o /out/rinha2026 .
 
 FROM alpine:3.20
 
